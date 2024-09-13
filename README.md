@@ -1,3 +1,4 @@
-to start npm run 
+to init:
+ npm start run 
 
 # ethmexicohack
